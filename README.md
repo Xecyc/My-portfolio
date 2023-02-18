@@ -25,11 +25,12 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-# 📖 [Hello-World] <a name="about-project"></a>
+# 📖 [My-portfolio] <a name="about-project"></a>
 
-**[Hello-World]** is a simple project made with html and css, the purpose of the project is to test our ability to use linters and github flow.
+**[My-portfolio]** is a simple project made with html and css, the purpose of the project is to test our ability to use linters and github flow.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -120,8 +121,8 @@ To run tests, run the following command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [1] **[Styling]**
-- [2] **[Content]**
+- [1] **[Animations]**
+- [2] **[Projects]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -133,7 +134,7 @@ Contributions, issues, and feature requests are welcome!
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project please comment on what you liked about it, and what I can improve to make it better.
+If you like this project please comment on what you liked about it, and what I can improve on to make it better.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -143,6 +144,19 @@ I would like to thank microverse for giving me the tools to make this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<<<<<<< Created_header_and_headline
+## ❓ FAQ (OPTIONAL) <a name="faq"></a>
+
+- **[What resources do I need to get started with the project?]**
+
+  - The resources are given in the ReadMe section, however, since this project is in the early stages, all you need is an internet browser.
+
+- **[How can I make sure the project is up to date with the latest technology?]**
+
+  - To ensure that my project is up to date with the latest technology, here in microverse, we invest time and effort into staying informed. This can be done in a variety of ways, such as subscribing to newsletters, following tech industry and company updates, taking online courses, and sharing ideas with your peers and mentors. Additionally, it is important to stay on top of emerging technology trends, such as reading the latest research reports and following tech news.
+
+=======
+>>>>>>> main
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./MIT.md) licensed.
