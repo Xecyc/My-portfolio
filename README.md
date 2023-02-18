@@ -144,7 +144,6 @@ I would like to thank microverse for giving me the tools to make this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<<<<<<< Created_header_and_headline
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
 - **[What resources do I need to get started with the project?]**
@@ -155,8 +154,6 @@ I would like to thank microverse for giving me the tools to make this project.
 
   - To ensure that my project is up to date with the latest technology, here in microverse, we invest time and effort into staying informed. This can be done in a variety of ways, such as subscribing to newsletters, following tech industry and company updates, taking online courses, and sharing ideas with your peers and mentors. Additionally, it is important to stay on top of emerging technology trends, such as reading the latest research reports and following tech news.
 
-=======
->>>>>>> main
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./MIT.md) licensed.
