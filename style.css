@@ -11,7 +11,6 @@ html {
 
 /*** NAVIGATION BAR ***/
 
-
 .navbar {
   background-color: #3c3a39;
   display: flex;
@@ -71,7 +70,6 @@ main {
   background-repeat: no-repeat;
   background-position: right 120%;
 }
-
 
 .headline {
   display: flex;
@@ -167,8 +165,9 @@ main {
   html {
     font-size: 70%;
   }
+
   main {
     background-position: right 115%;
   }
-}
 
+}
