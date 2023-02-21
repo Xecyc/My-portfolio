@@ -162,12 +162,11 @@ main {
 /*** Media Queries (Experimental for now) */
 
 @media (min-width: 396px) { 
+
   html {
     font-size: 70%;
   }
-
   main {
     background-position: right 115%;
   }
-
 }
