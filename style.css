@@ -11,6 +11,7 @@ html {
 
 /*** NAVIGATION BAR ***/
 
+
 .navbar {
   background-color: #3c3a39;
   display: flex;
@@ -57,11 +58,20 @@ html {
   align-self: center;
 }
 
+.ham-img {
+  width: 2.4rem;
+  height: 2.4rem;
+  display: block;
+}
+
+/* The background will be temporary until I'm more familiar with grid, I will make it an html element later on */
+
 main {
   background-image: url("img/background/illustration-header-mobile.svg");
   background-repeat: no-repeat;
   background-position: right 120%;
 }
+
 
 .headline {
   display: flex;
@@ -85,7 +95,7 @@ main {
   flex-grow: 0;
 }
 
-.headline h3 {
+.headline h2 {
   font-family: 'Roboto', sans-serif;
   font-size: 2.4rem;
   font-weight: 700;
@@ -138,7 +148,27 @@ main {
   min-height: 4rem;
 }
 
-.icon:hover {
+.media-img {
+  height: 2.4rem;
+  width: 2.4rem;
+  display: block;
+}
+
+.media-img:hover {
   cursor: pointer;
   filter: invert(49%) sepia(77%) saturate(5619%) hue-rotate(8deg) brightness(96%) contrast(97%);
 }
+
+/* ------------------------ */
+
+/*** Media Queries (Experimental for now) */
+
+@media (min-width: 396px) { 
+  html {
+    font-size: 70%;
+  }
+  main {
+    background-position: right 115%;
+  }
+}
+
