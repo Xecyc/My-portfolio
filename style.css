@@ -118,6 +118,7 @@ main {
   flex: none;
   order: 3;
   flex-grow: 0;
+  list-style: none;
 }
 
 .icon-box {
