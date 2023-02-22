@@ -9,10 +9,6 @@ html {
   font-size: 62.5%;  /*** This was done to use rem instead of px, 1 rem = 10px */
 }
 
-body {
-  text-decoration: none;
-}
-
 /*** NAVIGATION BAR ***/
 
 .navbar {
@@ -24,30 +20,18 @@ body {
   min-width: 37.5rem;
 }
 
-.logo-box {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  padding: 1rem 1.2rem;
-  min-width: 10.1rem;
-  min-height: 4.4rem;
-}
-
 .brand-name {
-  min-width: 7.7rem;
-  min-height: 2.4rem;
   font-family: 'Roboto', sans-serif;
   font-size: 1.8rem;
   line-height: 2.4rem;
   font-weight: 700;
-  display: flex;
-  align-items: center;
-  text-align: center;
   margin: 0.5rem;
+  padding: 1rem 1.2rem;
   color: #fff;
+  text-decoration: none;
 }
 
-.ham-menu-box {
+.ham-menu {
   display: flex;
   flex-direction: row;
   align-items: flex-start;
@@ -55,10 +39,6 @@ body {
   min-width: 4rem;
   min-height: 4rem;
   border-radius: 8rem;
-}
-
-.ham-menu {
-  align-self: center;
 }
 
 .ham-img {
