@@ -9,6 +9,10 @@ html {
   font-size: 62.5%;  /*** This was done to use rem instead of px, 1 rem = 10px */
 }
 
+body {
+  text-decoration: none;
+}
+
 /*** NAVIGATION BAR ***/
 
 .navbar {
@@ -43,7 +47,7 @@ html {
   color: #fff;
 }
 
-.menu-box {
+.ham-menu-box {
   display: flex;
   flex-direction: row;
   align-items: flex-start;
@@ -53,7 +57,7 @@ html {
   border-radius: 8rem;
 }
 
-.ham-box {
+.ham-menu {
   align-self: center;
 }
 
@@ -126,7 +130,7 @@ main {
 
 /*** MAIN - SOCIAL MEDIA  ***/
 
-.social-media {
+.social-media ul {
   display: flex;
   flex-direction: row;
   align-items: center;
